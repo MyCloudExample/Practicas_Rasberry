@@ -6,8 +6,8 @@
 #define COLS 4
 
 // Configuración de pines (ajusta según tu conexión real)
-const uint row_pins[ROWS] = {2, 3, 4, 5};  // Fila 1 a 4
-const uint col_pins[COLS] = {6, 7, 8, 9};     // Columna 1 a 4
+const uint row_pins[ROWS] = {14, 15, 16, 17};  // Fila 1 a 4
+const uint col_pins[COLS] = {21, 20, 19, 18};     // Columna 1 a 4
 
 const char keymap[ROWS][COLS] = {
     {'1', '2', '3', 'A'},
