@@ -33,9 +33,10 @@ project(main C CXX ASM)
 # Initialise the Raspberry Pi Pico SDK
 pico_sdk_init()
 
-# adicion de libreria
+#Adiciono libreria
 
 add_subdirectory(${CMAKE_CURRENT_LIST_DIR}/../led_control ${CMAKE_BINARY_DIR}/led_control)
+
 # Add executable. Default name is the project name, version 0.1
 
 add_executable(main main.c )

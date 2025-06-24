@@ -1,0 +1,11 @@
+cmake_minimum_required(VERSION 3.12)
+project(oled)
+
+# Add BMP280 source files
+add_library(oled STATIC src/oled.c)
+
+# Include oled header files
+target_include_directories(oled PUBLIC include)
+
+# Add dependencies
+target_link_libraries(oled PUBLIC pico_stdlib hardware_i2c)

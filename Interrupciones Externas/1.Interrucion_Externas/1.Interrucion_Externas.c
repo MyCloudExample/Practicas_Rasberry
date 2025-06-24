@@ -2,39 +2,44 @@
 #include "pico/stdlib.h"
 #include "hardware/gpio.h"
 
-#define input_pin 2
+#define INPUT_PIN 7
+#define DEBOUNCE_MS 20 // Tiempo de debounce
 
-volatile uint16_t pulse=0;
-// Función callback CORREGIDA (usando uint en lugar de uint8_t)
-void gpio_callback(uint gpio, uint32_t events) 
-{
-    if(gpio == input_pin) 
-    {
-        pulse++;
-        printf("Pulso numero %d\n", pulse);
+volatile uint32_t pulse = 0;
+volatile bool new_pulse = false;
+absolute_time_t last_interrupt_time = 0;
+
+void gpio_callback(uint gpio, uint32_t events) {
+    if(gpio == INPUT_PIN) {
+        absolute_time_t now = get_absolute_time();
+        int64_t diff = absolute_time_diff_us(last_interrupt_time, now) / 1000;
+        
+        if(diff > DEBOUNCE_MS) {
+            pulse++;
+            new_pulse = true;
+            last_interrupt_time = now;
+        }
     }
 }
 
-int main() 
-{
-    stdio_init_all(); // Inicializar USB serial para printf
+int main() {
+    stdio_init_all();
     
-    // Configuración de GPIO
-    gpio_init(input_pin);
-    gpio_set_dir(input_pin, GPIO_IN);
-    gpio_pull_down(input_pin);
+    gpio_init(INPUT_PIN);
+    gpio_set_dir(INPUT_PIN, GPIO_IN);
+    //gpio_pull_down(INPUT_PIN);
     
-    // Configurar interrupción para flanco de bajada
-    gpio_set_irq_enabled_with_callback(input_pin, 
+    gpio_set_irq_enabled_with_callback(INPUT_PIN, 
                                      GPIO_IRQ_EDGE_RISE, 
                                      true, 
                                      &gpio_callback);
 
     printf("Esperando interrupciones...\n");
     
-    while(true) 
-    {
-        // El procesamiento principal puede ir aquí
-        tight_loop_contents(); // Reduce consumo de energía
+    while(true) {
+        if(new_pulse) {
+            printf("Pulso numero %lu\n", pulse);
+            new_pulse = false;
+        }
     }
 }

@@ -6,18 +6,16 @@
 
 // Configuración de los pines I2C
 #define I2C_PORT i2c0
-#define I2C_SDA_PIN 8
-#define I2C_SCL_PIN 9
+#define I2C_SDA_PIN 8 //pin 11
+#define I2C_SCL_PIN 9 //pin 12
 
-int main() {
+void init_i2c();
+
+int main() 
+{
     stdio_init_all();
 
-    // Inicializar I2C
-    i2c_init(I2C_PORT, 400 * 1000); // 400 kHz
-    gpio_set_function(I2C_SDA_PIN, GPIO_FUNC_I2C);
-    gpio_set_function(I2C_SCL_PIN, GPIO_FUNC_I2C);
-    gpio_pull_up(I2C_SDA_PIN);
-    gpio_pull_up(I2C_SCL_PIN);
+    init_i2c();
 
     // Inicializar BMP280
     bmp280_init(I2C_PORT);
@@ -48,4 +46,13 @@ int main() {
     }
 
     return 0;
+}
+
+void init_i2c()
+{
+    i2c_init(I2C_PORT, 400 * 1000); // 400 kHz
+    gpio_set_function(I2C_SDA_PIN, GPIO_FUNC_I2C);
+    gpio_set_function(I2C_SCL_PIN, GPIO_FUNC_I2C);
+    gpio_pull_up(I2C_SDA_PIN);
+    gpio_pull_up(I2C_SCL_PIN);
 }

@@ -1,7 +1,7 @@
 #include "pico/stdlib.h"
 #include <stdio.h>
 
-#define BUTTON_PIN 14
+#define BUTTON_PIN 7
 
 int main() {
     // Inicializar la biblioteca estándar
@@ -14,7 +14,7 @@ int main() {
     
     uint32_t counter = 0;
     bool last_button_state = false;
-    
+    sleep_ms(5000);
     printf("Programa iniciado. Presione el pulsador en GPIO %d\n", BUTTON_PIN);
     
     while (true) {

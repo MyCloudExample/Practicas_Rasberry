@@ -46,7 +46,8 @@ pico_enable_stdio_usb(9.LCD_I2C_Carlassara 0)
 
 # Add the standard library to the build
 target_link_libraries(9.LCD_I2C_Carlassara
-        pico_stdlib)
+        pico_stdlib
+        lcd)
 
 # Add the standard include files to the build
 target_include_directories(9.LCD_I2C_Carlassara PRIVATE

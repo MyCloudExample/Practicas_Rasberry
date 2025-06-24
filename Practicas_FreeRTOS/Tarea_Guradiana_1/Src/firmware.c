@@ -6,7 +6,8 @@
 #include <string.h>
 
 // Estructura para mensajes de consola
-typedef struct {
+typedef struct 
+{
     char message[100];
     TickType_t delay_ticks;
 } ConsoleMessage_t;
@@ -14,13 +15,17 @@ typedef struct {
 QueueHandle_t xConsoleQueue;  // Cola global
 
 // Tarea Guardiana (único acceso a la salida USB)
-void vConsoleGatekeeper(void *pvParameters) {
+void vConsoleGatekeeper(void *pvParameters) 
+{
     ConsoleMessage_t msg;
     
-    while (1) {
-        if (xQueueReceive(xConsoleQueue, &msg, portMAX_DELAY) == pdTRUE) {
+    while (1) 
+    {
+        if (xQueueReceive(xConsoleQueue, &msg, portMAX_DELAY) == pdTRUE) 
+        {
             printf("%s\n", msg.message);  // Envía por USB
-            if (msg.delay_ticks > 0) {
+            if (msg.delay_ticks > 0) 
+            {
                 vTaskDelay(msg.delay_ticks);
             }
         }
@@ -28,26 +33,31 @@ void vConsoleGatekeeper(void *pvParameters) {
 }
 
 // Tarea de ejemplo 1
-void vTask1(void *pvParameters) {
+void vTask1(void *pvParameters) 
+{
     ConsoleMessage_t msg;
     strcpy(msg.message, "Hola desde Tarea 1 (USB)!");
     msg.delay_ticks = 0;
 
-    while (1) {
+    while (1) 
+    {
         xQueueSend(xConsoleQueue, &msg, portMAX_DELAY);
         vTaskDelay(pdMS_TO_TICKS(1000));  // Espera 1 segundo
     }
 }
 
 // Tarea de ejemplo 2
-void vTask2(void *pvParameters) {
+void vTask2(void *pvParameters) 
+{
     ConsoleMessage_t msg;
     strcpy(msg.message, "Tarea 2 activa (USB)!");
     msg.delay_ticks = pdMS_TO_TICKS(500);
+    //msg.delay_ticks = 0;
 
-    while (1) {
+    while (1) 
+    {
         xQueueSend(xConsoleQueue, &msg, portMAX_DELAY);
-        vTaskDelay(pdMS_TO_TICKS(2000));  // Espera 2 segundos
+        vTaskDelay(pdMS_TO_TICKS(3000));  // Espera 2 segundos
     }
 }
 
