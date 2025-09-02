@@ -1,7 +1,8 @@
 #include "pico/stdlib.h"
 #include "hardware/gpio.h"
+#include <stdio.h>
 
-#define RELAY_PIN 15 // Pin GPIO conectado al módulo de relé
+#define RELAY_PIN 12 // Pin GPIO conectado al módulo de relé
 
 int main() {
     // Inicializar el pin del relé como salida
@@ -12,6 +13,7 @@ int main() {
         // Encender el relé (activar)
         gpio_put(RELAY_PIN, 1);
         sleep_ms(2000); // Espera 2 segundos
+        printf("BLINKY \n");
 
         // Apagar el relé (desactivar)
         gpio_put(RELAY_PIN, 0);

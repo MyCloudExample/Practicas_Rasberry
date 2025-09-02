@@ -4,11 +4,11 @@
 #include "lcd.h"
 
 // Eleccion de I2C a usar
-#define I2C         i2c1
+#define I2C         i2c0
 // Eleccion de GPIO para SDA
-#define SDA_GPIO   6
+#define SDA_GPIO   8
 // Eleccion de GPIO para SCL
-#define SCL_GPIO   7
+#define SCL_GPIO   9
 // Direccion de 7 bits del adaptador del LCD
 #define ADDR        0x27
 
