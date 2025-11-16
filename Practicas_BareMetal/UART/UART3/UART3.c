@@ -48,21 +48,29 @@ volatile bool data_ready = false;  // Flag para indicar comando listo
 /*===============================================================================================================================*/
 /*===========================DECLARACION DE FUNCIONES============================================================================*/
 //===========================Función de interrupción UART =======================================================================
-void on_uart_rx() {
-    while (uart_is_readable(UART_ID)) {
+void on_uart_rx() 
+{
+    while (uart_is_readable(UART_ID)) 
+    {
         char c = uart_getc(UART_ID);
         
-        if (c == '\n' || c == '\r') {
+        if (c == '\n' || c == '\r') 
+        {
             // Fin de comando
-            if (buffer_index > 0) {
+            if (buffer_index > 0) 
+            {
                 uart_buffer[buffer_index] = '\0';
                 data_ready = true;  // Marcar que hay comando listo
                 buffer_index = 0;
             }
-        } else if (buffer_index < BUFFER_SIZE - 1) {
+        } 
+        else if (buffer_index < BUFFER_SIZE - 1) 
+        {
             // Almacenar caracter en buffer
             uart_buffer[buffer_index++] = c;
-        } else {
+        } 
+        else 
+        {
             // Buffer lleno, procesar igual
             uart_buffer[BUFFER_SIZE - 1] = '\0';
             data_ready = true;
@@ -70,7 +78,6 @@ void on_uart_rx() {
         }
     }
 }
-
 //===========================Función para extraer números de una cadena==========================================================
 float extract_number(const char *str) 
 {
