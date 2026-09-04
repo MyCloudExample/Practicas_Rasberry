@@ -169,7 +169,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=Test_2
+CMAKE_PROJECT_NAME:STATIC=Test_3
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=C:/Users/nahue/.pico-sdk/toolchain/14_2_Rel1/bin/arm-none-eabi-ranlib.exe
@@ -341,6 +341,15 @@ Test_2_IS_TOP_LEVEL:STATIC=ON
 
 //Value Computed by CMake
 Test_2_SOURCE_DIR:STATIC=C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main
+
+//Value Computed by CMake
+Test_3_BINARY_DIR:STATIC=C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build
+
+//Value Computed by CMake
+Test_3_IS_TOP_LEVEL:STATIC=ON
+
+//Value Computed by CMake
+Test_3_SOURCE_DIR:STATIC=C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main
 
 //Value Computed by CMake
 Test_BINARY_DIR:STATIC=C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build

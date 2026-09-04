@@ -198,6 +198,41 @@ bool DS18B20_Read_Memory_Scratchpad(OneWireBus_t* bus, uint8_t* read_memory, uin
     }
     return true;
 }
+
+bool DS18B20_Save_Config(OneWireBus_t* bus, uint8_t* rom_code)
+{
+    // 1. Validar parámetros
+    if (bus == NULL) 
+    {
+        return false;
+    }
+
+    // 2. Iniciar transacción: Reset + presencia
+    if (!OneWire_Reset(bus)) 
+    {
+        return false;
+    }
+
+    // 3. Seleccionar dispositivo (Skip o Match ROM)
+    if (!DS18B20_Select_Device(bus, rom_code)) 
+    {
+        return false;
+    }
+
+    // 4. Enviar comando Copy Scratchpad (0x48)
+    if (!OneWire_Write_Byte(bus, DS18B20_COMMAND_COPY)) 
+    {
+        return false;
+    }
+
+    // 5. Esperar al menos 10 ms para la escritura en EEPROM
+    // IMPORTANTE: En modo parásito, se necesita activar un Strong Pullup durante este tiempo.
+    // Por simplicidad, asumimos que el usuario gestiona el Strong Pullup externamente.
+    // Si el sensor está en modo parásito, el usuario debe activar el Strong Pullup antes de llamar a esta función.
+    bus->delay_us(10000);  // 10 ms
+
+    return true;
+}
 //=====================================================================================================================================================================================================
 // 3- Implementacion de las funciones del dispositivo
 //=====================================================================================================================================================================================================
