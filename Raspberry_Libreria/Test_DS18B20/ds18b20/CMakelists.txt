@@ -1,0 +1,21 @@
+cmake_minimum_required(VERSION 3.12)
+project(ds18b20)
+
+# Add ds18b20 source files
+add_library(ds18b20 STATIC src/ds18b20.c)
+
+# Include ds18b20 header files
+# IMPORTANTE: El nombre del target debe coincidir: "ds18b20" (en minúsculas)
+target_include_directories(ds18b20 PUBLIC
+    ${CMAKE_CURRENT_LIST_DIR}/include
+                                        )
+                                        
+# Debo indicar la ubicacion de one_wire ya que ds18b20 depende de ella
+target_include_directories(ds18b20 PRIVATE
+    ${CMAKE_CURRENT_LIST_DIR}/../one_wire/include
+)                                    
+
+# Add dependencies
+target_link_libraries(ds18b20 PUBLIC 
+                                    pico_stdlib 
+                                    hardware_gpio)
