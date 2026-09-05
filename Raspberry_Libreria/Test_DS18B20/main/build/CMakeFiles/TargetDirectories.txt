@@ -1,4 +1,4 @@
-C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/CMakeFiles/Test_3.dir
+C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/CMakeFiles/Test_4.dir
 C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/CMakeFiles/edit_cache.dir
 C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/CMakeFiles/rebuild_cache.dir
 C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/pico-sdk/CMakeFiles/edit_cache.dir

@@ -16,8 +16,8 @@
 2455	2888	8091371374947373	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_vreg/vreg.c.obj	3edb2771fd90abcc
 178	861	8097522223419304	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/cdc/cdc_device.c.obj	51e77c4a59c7fc65
 2833	3537	8091371378725076	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom.c.obj	cb5995a5793eabaf
-3598	4042	8091371386375480	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_sci_m33.S.obj	ccd47ef4c2501323
 6056	6370	8097506840518346	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_conv_m33.S.obj	7f4f9fde1353226f
+3598	4042	8091371386375480	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_sci_m33.S.obj	ccd47ef4c2501323
 5768	6116	8092133342524099	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/video/video_device.c.obj	29097a7c6ae3603e
 3822	5404	8091371388809358	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_math.c.obj	a3a7d4eb9eee5373
 240	756	8097503768106305	pico-sdk/src/rp2350/boot_stage2/bs2_default.dis	a8eb66c45461b051
@@ -36,6 +36,7 @@
 1469	2038	8097503775323829	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/sem.c.obj	5f7d08142fd2527a
 331	412	8010917768752881	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Practicas_BareMetal/Blinky/leds/build/pico-sdk/src/rp2350/boot_stage2/bs2_default_padded_checksummed.S	1bb10119de2c1b26
 1637	2189	8097503777008019	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_time/timeout_helper.c.obj	95eebd52d378e805
+2551	4208	8102643675093747	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_math.c.obj	fa7b882954c9000f
 938	1201	8097503769916337	pico-sdk/src/rp2350/boot_stage2/CMakeFiles/bs2_default_library.dir/bs2_default_padded_checksummed.S.obj	a39d58b0f62716c4
 7185	7771	8097506851814310	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_unique_id/unique_id.c.obj	aa88120228c3a5dc
 2306	2977	8091371373450594	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_uart/uart.c.obj	4b6aff0db787cf78
@@ -51,9 +52,9 @@
 3183	3598	8091371382235684	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_divider/divider.c.obj	3ed97905b8734149
 1176	1760	8091371362142539	CMakeFiles/leds.dir/leds.c.obj	4bd29c332f728053
 1229	1663	8091371362673714	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_common/common.c.obj	66407ecb522fa058
-4468	5287	8091371395206596	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_crt0/crt0.S.obj	a8dcc9ea0e30e01
 292	746	8092143784947632	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/main/build/Test2.uf2	eb5ffb0a5edb4aef
 1068	1634	8092147031801028	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_uart/uart.c.obj	1e3186096c3e8cb3
+4468	5287	8091371395206596	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_crt0/crt0.S.obj	a8dcc9ea0e30e01
 1079	2249	8102639372477800	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_2.hex	adea0dde0f026a91
 500	606	8091374215844507	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/One_Wire/build/pico-sdk/src/rp2350/boot_stage2/bs2_default_padded_checksummed.S	2556dc4faf7d54f8
 3981	4624	8097506819768209	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/sem.c.obj	13f4032d3e53aaca
@@ -61,8 +62,8 @@
 1269	1870	8091371363125203	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync/sync.c.obj	8856ac45b44ad716
 5807	7338	8097506838023401	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_math.c.obj	df722fa55ad6b051
 179	563	8097515696687893	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj	340d23e0de243e14
-5801	6399	8092133342842008	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/tusb.c.obj	ce17223e13047342
 152	759	8097515548131613	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_timer/timer.c.obj	580a3e1ec34c8657
+5801	6399	8092133342842008	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/tusb.c.obj	ce17223e13047342
 4184	5072	8097503802481936	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_clib_interface/newlib_interface.c.obj	db55ddb48b88f97d
 1255	1885	8091371362938843	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/hardware_claim/claim.c.obj	c31ddbca40e21181
 164	580	8092141017913475	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj	48fbfac9e5c72221
@@ -78,15 +79,16 @@
 1303	2290	8091371363669273	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/irq.c.obj	7eb6a95bc4c33f02
 7797	8360	8097506857927666	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/audio/audio_device.c.obj	4a9aff53f19e57e5
 338	1313	8097276466893717	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/main/build/Test.uf2	6439cd05f5ec5848
+4829	5837	8102643697793926	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/cdc/cdc_device.c.obj	496eaa6304b4512f
 2341	2811	8097506803472777	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_conv32_vfp.S.obj	d77479add990f0a7
 3752	4287	8092150749165963	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj	c09d421c0b28b985
 4047	4625	8091371391019220	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_malloc/malloc.c.obj	c0118728adf0ed9f
 149	611	8092150713043679	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_panic/panic.c.obj	5e2cec49dda9feb6
-1201	2305	8091371362402771	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_gpio/gpio.c.obj	ed0108005bca86ff
 1013	1602	8092147031259898	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/queue.c.obj	520de245d19a2f82
+1201	2305	8091371362402771	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_gpio/gpio.c.obj	ed0108005bca86ff
 5542	5960	8092147080635667	Test4.bin	aff508699a338a9f
-1663	2240	8091371367013426	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/sem.c.obj	c9b39c1f98d05d6d
 1761	2366	8091371367987488	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/lock_core.c.obj	6671af5e17ced8b2
+1663	2240	8091371367013426	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/sem.c.obj	c9b39c1f98d05d6d
 7729	9015	8097506857240400	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/device/usbd.c.obj	a9b5a24bcca69774
 4599	5003	8092147067125573	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj	17868a4c68c21013
 1802	2455	8091371368414337	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/mutex.c.obj	51c1031ef9478ae8
@@ -109,22 +111,23 @@
 1130	1711	8097506791251021	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_uart/uart.c.obj	ffcb6b1bd4fbe306
 2872	3357	8091371379100961	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj	742b4dbc792fbe5f
 2978	3461	8091371380180148	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_flash/flash.c.obj	e04b0d6029eecaa1
+708	1453	8102643656555567	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/mutex.c.obj	b8181e75c273a54a
 4035	4796	8092148947318651	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/cdc/cdc_device.c.obj	3176fec4171c0614
 3324	3866	8091371383802020	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj	7b23900af90ede2f
 4942	5380	8091374263668977	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/One_Wire/build/Test.uf2	e5eb7629308a4dda
 3099	3685	8097503791613407	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj	e7545eac0e9eaf30
 121	1088	8097522222791219	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/device/usbd.c.obj	df94075ddeadb869
-2993	3439	8091371380321811	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xosc/xosc.c.obj	a8fa488eade9fdde
 264	616	8097508003369564	Test.uf2	c722868c1a1cd9f8
 979	1505	8097503770430888	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_common/common.c.obj	42f31bd045203a8e
+2993	3439	8091371380321811	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xosc/xosc.c.obj	a8fa488eade9fdde
 3919	4463	8091371389912134	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_conv32_vfp.S.obj	4ea4c9f137b52b68
 87	480	8097519174075306	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj	405f76962e93faba
 3210	3789	8091371382807089	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime/runtime.c.obj	8227093adc754b21
 184	660	8098161126936004	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj	1a7eb943ca679dc9
 3403	3972	8091371384626673	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj	23801c3cc13569af
 5565	5987	8092150771223898	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/main/build/Test6.hex	7071fc98f8ade48c
-3537	4080	8091371385762865	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_aeabi_dcp.S.obj	aac2b6703c5d0792
 8033	8486	8097506860285743	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/hid/hid_device.c.obj	6dc5be0155f69072
+3537	4080	8091371385762865	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_aeabi_dcp.S.obj	aac2b6703c5d0792
 3568	4005	8091371386072616	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_fma_dcp.S.obj	66f90c259d94ed67
 3302	4135	8091371383407168	CMakeFiles/leds.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init.c.obj	6aab20474de9ceae
 2574	3168	8092133310584935	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_fma_dcp.S.obj	39778cea3970a33b
@@ -162,12 +165,13 @@
 228	476	8010918351013815	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Practicas_BareMetal/Blinky/leds/build/leds.bin	dd8eece471131302
 2968	3406	8098162025033769	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/midi/midi_device.c.obj	b199fa21a108aa80
 228	476	8010918351013815	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Practicas_BareMetal/Blinky/leds/build/leds.uf2	dd8eece471131302
+3193	3715	8102643681421418	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj	23fed6044a9c6b5d
 258	964	8091371359923584	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/One_Wire/build/pico-sdk/src/rp2350/boot_stage2/bs2_default.dis	8a7ba9e0c887ee33
 964	1029	8091371360586539	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/One_Wire/build/pico-sdk/src/rp2350/boot_stage2/bs2_default.bin	da0d0486ed1fdfb5
 1030	1176	8091371361917890	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/One_Wire/build/pico-sdk/src/rp2350/boot_stage2/bs2_default_padded_checksummed.S	8bb5786151f8b85e
 2827	3751	8097506808366550	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_clib_interface/newlib_interface.c.obj	220b5496a61a9408
-6039	6520	8091371415436854	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/One_Wire/build/leds.dis	d21d39807b52a21
 4647	5194	8092147067588030	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/vendor/vendor_device.c.obj	f8a642d580b1d7b2
+6039	6520	8091371415436854	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/One_Wire/build/leds.dis	d21d39807b52a21
 3031	3388	8098162025677880	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/msc/msc_device.c.obj	90731d2c51ccf4f4
 89	565	8098161241804674	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/sem.c.obj	70547abbb8545146
 130	942	8097515547905008	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_time/time.c.obj	61f7245f44568a26
@@ -181,9 +185,10 @@
 79	891	8092148907646228	CMakeFiles/Test5.dir/Test5.c.obj	e0df554c731c080f
 292	746	8092143784947632	Test2.uf2	eb5ffb0a5edb4aef
 2723	3299	8092133312204906	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_sci_m33.S.obj	64dd2eaf68527478
-82	4582	8102643648609849	build.ninja	cb2673572ce3f54a
+23	1939	8103402900333365	build.ninja	cb2673572ce3f54a
 4768	5271	8097506827636269	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_pll/pll.c.obj	d120e46c534dd97
 3304	3732	8097506813000693	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2350/pico_platform/platform.c.obj	df87b826d9f18384
+1994	2648	8102643669463757	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xosc/xosc.c.obj	9d21e3029e9f827c
 2227	2575	8097506802212528	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_fma_dcp.S.obj	4cf8d7eeab4afb17
 5224	5984	8097506832196849	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom.c.obj	5c634d345baf3f43
 3738	4248	8097506817347427	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/hardware_claim/claim.c.obj	316af11fdbbf3dc
@@ -201,8 +206,9 @@
 7878	8299	8097506858738922	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj	7208173f4a328cda
 975	1689	8092148916717803	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_uart/uart.c.obj	df4fd43d4a5906b7
 2934	3222	8092133314179912	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_conv32_vfp.S.obj	1580d4baf00bf7a1
-594	1198	8092133290770251	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/sem.c.obj	41648026f697b054
+85	574	8102643650339016	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdlib/stdlib.c.obj	1c9877dac83e060
 3174	4165	8097506811901675	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_gpio/gpio.c.obj	e7c95f3178966786
+594	1198	8092133290770251	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/sem.c.obj	41648026f697b054
 3926	4347	8097506819219721	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/irq_handler_chain.S.obj	cb3412d9ab372219
 2135	3482	8097506801295579	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_math.c.obj	5a37dfcfdf3ca828
 4093	4597	8097506820888130	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/lock_core.c.obj	9cfacd915a58d0d
@@ -215,13 +221,14 @@
 2283	2846	8097503783470981	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_vreg/vreg.c.obj	b0021c3348359652
 4154	4767	8097506821493343	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/mutex.c.obj	dffe3673b70a4e4b
 4277	5247	8097506822716677	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_timer/timer.c.obj	6bc3834db5181f35
+298	697	8102644145103126	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_3.bin	409c616a5c10da21
 4336	4944	8097506823315392	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/datetime.c.obj	2b05062101512031
 2094	2744	8097503781591018	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_uart/uart.c.obj	da3da6cc7c64a776
 4597	5314	8097506825931792	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/queue.c.obj	80ab16bfbe70a2d1
 3268	4022	8092147053800224	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/reset_interface.c.obj	b2e81c76476975b4
 161	454	8097522659156333	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj	c247dcae458678a9
-3586	4526	8092133320827725	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio/stdio.c.obj	1b049e1902def413
 4625	5283	8097506826205854	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_uart/uart.c.obj	f2663d64f25ca7ee
+3586	4526	8092133320827725	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio/stdio.c.obj	1b049e1902def413
 4249	5624	8097506822442318	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_time/time.c.obj	a4e87177b2943a80
 4347	5222	8097506823422030	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/pheap.c.obj	72c85b7344686588
 2038	2544	8092147041493369	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init.c.obj	db1775b9548d3316
@@ -230,8 +237,8 @@
 2116	2680	8092147042299265	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_divider/divider_compiler.c.obj	6b8ebf23807362dd
 4637	5711	8097506826326567	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_clocks/clocks.c.obj	5953712d694f928
 106	565	8097506781016143	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2350/pico_platform/platform.c.obj	addb8224fee9db49
-126	511	8092148908264936	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_common/common.c.obj	2e08e6f60b36fb57
 4958	5551	8097506830622105	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_ticks/ticks.c.obj	7fe30a6e590897dd
+126	511	8092148908264936	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_common/common.c.obj	2e08e6f60b36fb57
 5271	5806	8097506832652472	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj	32864ce23acd661b
 2909	3896	8097506809752328	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio/stdio.c.obj	219984a3245e411
 2014	2574	8092133304976401	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xosc/xosc.c.obj	dd7d546592549d3b
@@ -255,6 +262,7 @@
 5711	6307	8097506837064341	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj	cac2ddced8487bda
 170	704	8092147022829141	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj	602d57eb5c3e0666
 5831	6224	8097506838271291	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_aeabi_dcp.S.obj	dce739e44e9bb140
+110	563	8102643650596075	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2350/pico_platform/platform.c.obj	4ed0263c56651969
 5637	6469	8097506836789252	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init.c.obj	cd38e52fffb08acd
 2687	3258	8092147048001629	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj	8bce4589a9a26c06
 2154	2488	8092148928511547	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_aeabi_dcp.S.obj	f75b93f125ab06bc
@@ -266,8 +274,8 @@
 696	839	8091376396907684	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/main/build/pico-sdk/src/rp2350/boot_stage2/bs2_default_padded_checksummed.S	fb9c30b95180e58f
 6264	6591	8097506842593853	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_common_m33.S.obj	43258dae1e8bb288
 544	731	8098161130527513	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/irq_handler_chain.S.obj	89559d70f0fbed13
-292	746	8092143784947632	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/main/build/Test2.bin	eb5ffb0a5edb4aef
 3170	3979	8092133316551934	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_atomic/atomic.c.obj	f2a16df10c528068
+292	746	8092143784947632	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/main/build/Test2.bin	eb5ffb0a5edb4aef
 4320	4913	8092141203760928	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/common/tusb_fifo.c.obj	da85eeefaa852f04
 6388	6944	8097506843850124	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_malloc/malloc.c.obj	bcc40514d19b3cb5
 222	1319	8092133287052387	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/irq.c.obj	1815369820002745
@@ -289,6 +297,7 @@
 6469	7817	8097506844634705	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_printf/printf.c.obj	d3091275a75a8df7
 264	616	8097508003369564	Test.elf	c722868c1a1cd9f8
 2317	2811	8092133308133114	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj	d5163817d4120542
+5297	5832	8102643702772199	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj	8bdfcf0fcdeb7322
 441	779	8098161999640445	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj	d35e17250643df0c
 264	616	8097508003369564	Test.dis	c722868c1a1cd9f8
 2128	2604	8092141181844030	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj	7f17b4ef1afd0d0c
@@ -325,10 +334,12 @@
 338	1313	8097276466893717	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/main/build/Test.dis	6439cd05f5ec5848
 338	1313	8097276466893717	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/main/build/Test.hex	6439cd05f5ec5848
 966	1454	8097503770330339	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2350/pico_platform/platform.c.obj	96595d95005e8c87
+733	1988	8102643656812645	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_time/time.c.obj	2c1d4f785fbc5dff
 1006	1479	8097503770694985	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync/sync.c.obj	ee5c3d318ec72a6b
 2703	3408	8097503787663896	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom.c.obj	888f82bd16830cc0
 1754	2177	8092148924522159	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xosc/xosc.c.obj	51333c2cdf4f4abf
 989	1679	8097503770527310	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_panic/panic.c.obj	da824a8156309f68
+1564	2436	8102643665124905	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_watchdog/watchdog.c.obj	ed7e4828522362dd
 4214	4525	8092141202714700	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/video/video_device.c.obj	841497eb86025693
 105	612	8098161996283126	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xosc/xosc.c.obj	ba9d4c9b9bba887e
 4585	4905	8092148952825169	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/video/video_device.c.obj	e51a204456039b25
@@ -348,10 +359,11 @@
 1976	2484	8097506799712641	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj	ba656460d8d4f192
 1495	2282	8097503775583506	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/mutex.c.obj	5f0b0ea36cba023
 3523	3968	8097503795877014	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_conv_m33.S.obj	9b5eeb1034481ed6
+178	693	8102643651273369	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj	ba7bd9f838bc75c6
 106	404	8097522658590329	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/msc/msc_device.c.obj	5c0e5f588a910fed
-86	493	8097521454271428	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj	84da371a93a295c0
 1522	1905	8092150726756689	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj	8e70265d59072d8
 1824	2572	8097503778868668	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/datetime.c.obj	3d64d21d57824b20
+86	493	8097521454271428	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj	84da371a93a295c0
 1679	2702	8097503777426764	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_timer/timer.c.obj	668a391ea5e40d13
 7774	8519	8097506857698334	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/device/usbd_control.c.obj	9b8f41af75c0c6d5
 429	1080	8092141164904303	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/queue.c.obj	2c30727ee3b117e0
@@ -374,15 +386,15 @@
 2916	3462	8097503789973806	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xosc/xosc.c.obj	e9068ba5424640a1
 4087	4463	8092141201439013	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj	758db1ff4f39a9d8
 76	769	8098161721577835	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/pheap.c.obj	25e2bd21cb33178e
-4556	4890	8092148952543796	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj	5c2d7a758fd52973
 3047	3522	8097503791110738	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime/runtime.c.obj	41a3c62849656332
+4556	4890	8092148952543796	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj	5c2d7a758fd52973
 3063	3582	8092133315467770	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_common_m33.S.obj	1cf82e3e96fb84d5
 3357	3751	8097503794240796	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj	58f50949c91e1518
 3463	3832	8097503795268692	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_sci_m33.S.obj	ee2b0dc92e9d517
 144	599	8098161996703298	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime/runtime.c.obj	354b78dc2042ff63
 1151	1569	8092150723059627	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_vreg/vreg.c.obj	551f951bf9fa8b21
-2492	4269	8092133309773206	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_math.c.obj	2ab74c5b9bdd25ad
 3719	4076	8097503797827657	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_conv32_vfp.S.obj	61ad3ca8e98392f4
+2492	4269	8092133309773206	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_math.c.obj	2ab74c5b9bdd25ad
 3396	4160	8097503794602949	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_divider/divider_compiler.c.obj	6fc9a01489f03c0
 160	638	8092147022735651	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync/sync.c.obj	8bf0e36658de8aa6
 3072	3980	8097506810664640	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj	c7d172c4cfec27f
@@ -392,8 +404,9 @@
 3700	5024	8097503797702934	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_math.c.obj	ca99a86a4aee4ac5
 3409	5076	8097503794716417	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_math.c.obj	f52d0a6c792234db
 3800	4254	8097503798637505	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj	4a8ad0b7c5809c74
-96	406	8097522658438120	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/midi/midi_device.c.obj	b1d0a3992f42fd61
+1695	2249	8102643666541458	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_ticks/ticks.c.obj	90cdcb807b1c0f2
 318	713	8092145034425242	Test3.uf2	79733e8db1bea264
+96	406	8097522658438120	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/midi/midi_device.c.obj	b1d0a3992f42fd61
 3968	4554	8097503800321727	one_wire/CMakeFiles/one_wire.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj	191dd98c06a2f721
 114	514	8098161996440181	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_divider/divider.c.obj	ae814df8eec2b8db
 4076	4430	8092141201334267	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ncm_device.c.obj	20b6735038ef8e7c
@@ -415,17 +428,21 @@
 566	884	8097506785722578	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/irq_handler_chain.S.obj	4ac03fa09bd770d
 6956	7727	8097506849517836	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/reset_interface.c.obj	93770563de9656b4
 2262	2579	8092147043753105	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_fma_dcp.S.obj	687b60cd5082d20
+3280	3824	8102643682294583	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_crt0/crt0.S.obj	37334ea512234e39
 6979	7991	8097506849767103	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj	a394feac2de3af1
+298	697	8102644145103126	Test_3.dis	409c616a5c10da21
 7426	8022	8097506854212250	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj	afa6adfa023ba779
 555	832	8097511838889778	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/irq_handler_chain.S.obj	462a8283cb3dbc5b
 318	713	8092145034425242	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/main/build/Test3.hex	79733e8db1bea264
 7355	8045	8097506853563508	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_flash/flash.c.obj	35b4b23ac78925ff
+5177	5803	8102643701253699	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj	8db7fba0128057b7
 1149	1601	8092141172051984	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_divider/divider.c.obj	f70746f2083832bc
 7714	8531	8097506857097209	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj	8abff512a8a46fb4
 154	659	8097515696472088	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom.c.obj	8db3c3d0501c3183
 7482	8498	8097506854855157	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj	ff2f3a850e656191
 3305	3908	8098162028347438	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/tusb.c.obj	4fd61bf5c8750b61
 8062	8632	8097506860579027	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/midi/midi_device.c.obj	6e48b391e336aacb
+547	1541	8102643654954564	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/irq.c.obj	90a85979a365e4d6
 8362	8930	8097506864053863	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj	248b51949d36884
 8486	8957	8097506864828391	CMakeFiles/Test.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ncm_device.c.obj	986409b14a347d9c
 86	557	8092141017068037	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdlib/stdlib.c.obj	54f714c2e2f95146
@@ -450,6 +467,7 @@
 579	972	8092133290638698	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/irq_handler_chain.S.obj	a32116f871f401f2
 605	1006	8092133291018611	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/lock_core.c.obj	1c6f4a0e77552a4e
 135	1080	8092133286173257	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_gpio/gpio.c.obj	e12dccfaf15cf24b
+5496	5864	8102643704442211	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/video/video_device.c.obj	d59c4ae35eb1327d
 611	1130	8097506786067911	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/sem.c.obj	daa5c5690c9cd3e8
 638	1253	8092133291219779	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/mutex.c.obj	aebb15d8b6471861
 3979	5410	8092133324631317	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj	eef314498c38e03d
@@ -467,10 +485,11 @@
 5686	6090	8092133341697633	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj	b499cfa4ff18fc0f
 583	882	8098162001118257	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_sci_m33.S.obj	2405baf2c10530f0
 1402	2121	8092133298886997	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_vreg/vreg.c.obj	e98eb89304c5d7fe
+1246	1866	8102643661937669	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_uart/uart.c.obj	d8c894452e53a9b9
 1324	2248	8092133298074134	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_clocks/clocks.c.obj	be15503885e22a82
 2301	3551	8092150734559574	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_math.c.obj	970a961a0c32ce86
-3462	4359	8092133319451206	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_clib_interface/newlib_interface.c.obj	763be9f17346200d
 1729	2311	8092133302142364	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_ticks/ticks.c.obj	4f153e76ab42367a
+3462	4359	8092133319451206	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_clib_interface/newlib_interface.c.obj	763be9f17346200d
 2851	3278	8092147049644917	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_crt0/crt0.S.obj	5a1c3720c35112af
 1932	2458	8092133304161915	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_flash/flash.c.obj	277b3e20820e98a7
 4922	5565	8092150760849940	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/common/tusb_fifo.c.obj	69356f4a117a7ab2
@@ -479,10 +498,12 @@
 4294	5161	8092133327904526	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_flash/flash.c.obj	109d6d4aa01e4c83
 3489	4084	8092147056016541	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_unique_id/unique_id.c.obj	d59993e49ca920d7
 1882	2492	8092133303657955	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj	aefb37691155f235
+3764	4960	8102643687133977	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj	64560e80d4df4062
 4005	4490	8092148947135969	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/audio/audio_device.c.obj	5519cf075d2690ad
 1717	2685	8092133301999308	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_watchdog/watchdog.c.obj	dc1937bc1cc97443
-1219	1797	8092148919295908	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_pll/pll.c.obj	73f148e390b0d003
+3525	4271	8102643684742004	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj	7f6663b9d4761e23
 2470	2783	8092133309541673	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj	d088519ab5c3cbb8
+1219	1797	8092148919295908	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_pll/pll.c.obj	73f148e390b0d003
 118	762	8097521454636459	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_clib_interface/newlib_interface.c.obj	c66d0aaee7845690
 109	486	8097519174296056	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xosc/xosc.c.obj	74ae6445b3bf151f
 2459	2849	8092133309418668	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj	d6349cf2e7cf1e4a
@@ -490,26 +511,26 @@
 2482	3051	8092133309661689	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_divider/divider_compiler.c.obj	72b2332590bfe1ba
 4172	4599	8092147062860455	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj	ee57d09eb57d74a9
 2792	3200	8092133312757263	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_conv_m33.S.obj	46870c6161ab1fde
-3094	3449	8092133315933904	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj	bd9ae788fb83343c
 2552	2880	8092147046810530	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj	fa92d7ec46ffa96
+3094	3449	8092133315933904	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj	bd9ae788fb83343c
 3300	3827	8092133317847136	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_crt0/crt0.S.obj	d66b97a74771dd62
-4530	4875	8092148952268131	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj	209f4460a5a59e11
 3212	3860	8092133316969352	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj	c4790362b3499f40
-264	616	8097508003369564	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test.dis	c722868c1a1cd9f8
-3182	4201	8092133316676093	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj	36c213709599c12d
+4530	4875	8092148952268131	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj	209f4460a5a59e11
 3473	4051	8092147055866543	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj	7d3dd5cc35bf6671
-1574	3116	8092141176310741	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_math.c.obj	8a8ec4d36a78eef9
+3182	4201	8092133316676093	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj	36c213709599c12d
+264	616	8097508003369564	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test.dis	c722868c1a1cd9f8
 2829	4318	8092133313217791	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_math.c.obj	a8cd51096c9b27e0
+1574	3116	8092141176310741	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_math.c.obj	8a8ec4d36a78eef9
 3716	4604	8092133321997842	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj	558410a4f12abbd7
 3225	4890	8092133317105375	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_printf/printf.c.obj	e1bd09fadb640dc3
-799	938	8097503769916337	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/pico-sdk/src/rp2350/boot_stage2/bs2_default_padded_checksummed.S	4263149e6c82f6f1
+4610	5040	8092147067227935	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ncm_device.c.obj	e85fc68d3cc26025
 2617	3135	8092148933141186	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj	526899e875bffcbd
 4247	4920	8092133327410004	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_unique_id/unique_id.c.obj	2acae8e1611a1657
-4610	5040	8092147067227935	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ncm_device.c.obj	e85fc68d3cc26025
+799	938	8097503769916337	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/pico-sdk/src/rp2350/boot_stage2/bs2_default_padded_checksummed.S	4263149e6c82f6f1
 4326	4942	8092133328108879	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj	d87d72ded57d0f1b
-985	1743	8097506789812332	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/pheap.c.obj	336fe140886e40b0
-5542	5960	8092147080635667	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/main/build/Test4.dis	aff508699a338a9f
 4558	5363	8092133330532634	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj	ddc4a8ee4b0306d2
+5542	5960	8092147080635667	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/main/build/Test4.dis	aff508699a338a9f
+985	1743	8097506789812332	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/pheap.c.obj	336fe140886e40b0
 4929	5389	8092133334152089	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/audio/audio_device.c.obj	575de4d4695271c1
 108	393	8097521454536024	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_crt0/crt0.S.obj	6d9bcf47f36e272e
 3420	4075	8092141194919404	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj	961d0ceea6eaa24a
@@ -517,14 +538,17 @@
 4898	5556	8092133333927948	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/device/usbd_control.c.obj	35f40355705a1205
 3409	3686	8098162029304595	CMakeFiles/Test_2.dir/3f6b535ac8f82496e2f55d4c5ea11878/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj	c72d42bf8c3b806b
 5175	5615	8092133336592970	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj	2df784600f787be7
+4021	4670	8102643689787300	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_unique_id/unique_id.c.obj	1b631c5483804a16
 4359	5686	8092133328434196	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj	fd652c9108a3c1ba
 3870	5697	8092133323686805	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj	4b2a5014ff9c4c73
 4944	5768	8092133334368621	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/cdc/cdc_device.c.obj	27f9eedffd245938
 5389	5881	8092133338730216	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/hid/hid_device.c.obj	ac81bea234f42728
+298	697	8102644145103126	Test_3.elf	409c616a5c10da21
 5616	6056	8092133340994724	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ncm_device.c.obj	fccf3edfc560f85
 4096	4554	8092148947934043	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/hid/hid_device.c.obj	178185e5d4e530bb
-5557	6064	8092133340408680	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj	95736fc0b7bd14a9
 176	646	8098161242697343	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_time/timeout_helper.c.obj	2c31239e00fc1826
+5557	6064	8092133340408680	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj	95736fc0b7bd14a9
+574	1245	8102643655225582	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/sem.c.obj	a127e6e73a5ace11
 4609	6076	8092133330929576	CMakeFiles/Test2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/device/usbd.c.obj	2e042d38d31bdf1b
 5889	6177	8092133343734947	CMakeFiles/Test2.dir/3f6b535ac8f82496e2f55d4c5ea11878/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj	79f7eade06cdb7bb
 4455	4786	8092150756173811	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/hid/hid_device.c.obj	d62ad3159e130742
@@ -537,15 +561,17 @@
 292	746	8092143784947632	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/main/build/Test2.dis	eb5ffb0a5edb4aef
 112	447	8092141017390484	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_common/common.c.obj	55db3d30aae0721d
 4300	4691	8092150754554169	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj	78f229cd76992cb1
-102	501	8092141017299806	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2350/pico_platform/platform.c.obj	f629f7d843c9109e
 164	662	8092148908624609	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync/sync.c.obj	552d5153d7af2eff
+102	501	8092141017299806	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2350/pico_platform/platform.c.obj	f629f7d843c9109e
 264	616	8097508003369564	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test.hex	c722868c1a1cd9f8
-5394	5816	8092148965022772	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/main/build/Test5.hex	d37366331edac31b
 2139	3714	8092141181958183	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_printf/printf.c.obj	52e62f2102c4168
+5394	5816	8092148965022772	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/main/build/Test5.hex	d37366331edac31b
 121	542	8092141017478630	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_panic/panic.c.obj	2d5330c641c9e8f8
 4983	5206	8092147071055162	CMakeFiles/Test4.dir/3f6b535ac8f82496e2f55d4c5ea11878/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj	c8cd028fc939d362
-152	589	8092141017798820	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync/sync.c.obj	9c6c934a7a184716
+1467	2215	8102643664233035	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_vreg/vreg.c.obj	39dac3d3760140cf
 3129	4010	8092150742840736	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj	76a4d17990bdcaa3
+152	589	8092141017798820	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync/sync.c.obj	9c6c934a7a184716
+5250	5844	8102643701991200	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ncm_device.c.obj	48ab47164d6d7504
 133	627	8092141017603685	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/hardware_claim/claim.c.obj	b3aacf6711f4b25
 93	773	8092141017201363	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_gpio/gpio.c.obj	7a1f3a19ca913033
 111	516	8092141161688830	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_time/timeout_helper.c.obj	448332fc871c1d97
@@ -581,10 +607,12 @@
 1539	1849	8092141175963616	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj	f59968c65fe06def
 3039	3873	8092148937354762	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj	8937528ea5ed51c5
 1603	1932	8092141176591960	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_fma_dcp.S.obj	c64f52fb79724ac8
+5572	5889	8102643705199609	CMakeFiles/Test_3.dir/3f6b535ac8f82496e2f55d4c5ea11878/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj	3ce2f8fbe33c3f9f
 1716	1998	8092141177728225	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_sci_m33.S.obj	5853fac3f6318ed2
 1849	2045	8092141179066268	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_common_m33.S.obj	a9cde492bc5b6d9b
 1316	2117	8092141173749068	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init.c.obj	5e7fbead41f7a180
 95	537	8098161996181499	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_flash/flash.c.obj	6d7fceee74103738
+4897	5519	8102643698454323	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj	f2bafddeb11e6a39
 3354	4169	8092150745090975	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_unique_id/unique_id.c.obj	4f28ebafb861cba
 318	713	8092145034425242	Test3.dis	79733e8db1bea264
 318	713	8092145034425242	Test3.elf	79733e8db1bea264
@@ -603,7 +631,7 @@
 2438	3150	8092141184953614	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj	d04070ad72917974
 733	1159	8097506787303578	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/critical_section.c.obj	5fbafec9b2938d5e
 2505	3203	8092141185661528	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/reset_interface.c.obj	d05664c90d3aadb0
-95	419	8102639351021282	ds18b20/CMakeFiles/ds18b20.dir/src/ds18b20.c.obj	d45e6f7c5d746feb
+70	707	8102643650119439	ds18b20/CMakeFiles/ds18b20.dir/src/ds18b20.c.obj	d45e6f7c5d746feb
 2288	3272	8092141183456224	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio/stdio.c.obj	3ea48535e63931f9
 2543	3357	8092141186152497	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj	e083d7cc08fd07fe
 2720	3414	8092141187768750	CMakeFiles/Test3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_unique_id/unique_id.c.obj	297c5a1916801a73
@@ -628,11 +656,13 @@
 80	404	8097520063856609	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj	f5e205b430d5e652
 172	1186	8097520064805081	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_math.c.obj	d4eae164bafb5926
 318	713	8092145034425242	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/main/build/Test3.bin	79733e8db1bea264
-3896	4596	8092148945922201	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj	2f3f0242499939b5
 318	713	8092145034425242	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/main/build/Test3.uf2	79733e8db1bea264
+3896	4596	8092148945922201	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj	2f3f0242499939b5
 671	1128	8092147027844533	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/lock_core.c.obj	af2bb705272c1f4c
+4194	4819	8102643691446442	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj	4e79cf064360da0d
 2830	3177	8092148935265243	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_crt0/crt0.S.obj	f896574f8db84cb7
 130	694	8092147022425728	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_panic/panic.c.obj	b2da735fc0185dc
+1835	2312	8102643667955727	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj	4399941862cefeda
 2419	2821	8092150735747885	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj	380104c3773107ba
 84	795	8092147021951452	CMakeFiles/Test4.dir/Test4.c.obj	d7ed465aa5804ab2
 541	855	8092147026530561	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/irq_handler_chain.S.obj	ff2bfb4a47060510
@@ -641,14 +671,15 @@
 2714	3190	8098162022360815	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj	e8e687d248630d12
 694	1291	8092147028078082	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/mutex.c.obj	3091de96ccb0dd35
 856	1461	8092147029675776	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/datetime.c.obj	c36bc95ba6627578
-796	1501	8092147029103488	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_timer/timer.c.obj	c2e12b54eb26d5fe
 1022	1891	8092148917183446	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_clocks/clocks.c.obj	1838561eb78040a4
+796	1501	8092147029103488	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_timer/timer.c.obj	c2e12b54eb26d5fe
 159	853	8098161996858747	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init.c.obj	49f4739e249b1e0d
 1167	1557	8092147032800359	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_pll/pll.c.obj	8badf5b9a0e56862
 5394	5816	8092148965022772	Test5.dis	d37366331edac31b
 909	1776	8092147030211365	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/pheap.c.obj	b70a8cac22f478c
 4597	5236	8092148952930674	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/tusb.c.obj	33c364e1b55585f3
 719	1878	8092147028320759	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_time/time.c.obj	1d3905eb574fad6c
+121	545	8102643650726695	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_common/common.c.obj	914373822bf96c4b
 1481	2037	8092147036021165	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_watchdog/watchdog.c.obj	981193db1b780452
 78	435	8098161996008472	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj	ec48aafe1e1c4aea
 1508	2048	8092147036292140	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_ticks/ticks.c.obj	fae9bbebd50ce46d
@@ -672,6 +703,7 @@
 4188	4609	8092147063020656	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj	8925c0f8cc169bec
 4085	4943	8092147061979694	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/cdc/cdc_device.c.obj	b3928c98d6361c9e
 104	870	8092148908014669	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_gpio/gpio.c.obj	bd0c2fa1f7e4627b
+3004	3514	8102643679529343	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_malloc/malloc.c.obj	54f7229dcf7cf749
 4633	5029	8092147067463800	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj	39bfda7788ecad25
 4879	5159	8092147070025803	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/video/video_device.c.obj	3ce96d587bcd63d7
 4946	5468	8092147070615425	CMakeFiles/Test4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/tusb.c.obj	11bade2f9ed0c98d
@@ -683,8 +715,10 @@
 3281	3990	8092148939827979	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj	ce4b34e6bce6606c
 4971	5249	8092150761323290	CMakeFiles/Test6.dir/3f6b535ac8f82496e2f55d4c5ea11878/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj	b72ea2e17854c3cc
 5542	5960	8092147080635667	Test4.uf2	aff508699a338a9f
+694	1186	8102643656430130	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/lock_core.c.obj	3d46f8b86fcd3be6
 5542	5960	8092147080635667	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/main/build/Test4.hex	aff508699a338a9f
 5542	5960	8092147080635667	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/main/build/Test4.bin	aff508699a338a9f
+1889	2610	8102643668456759	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_flash/flash.c.obj	a87cd27d8f62b295
 5542	5960	8092147080635667	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_One_Wire/main/build/Test4.uf2	aff508699a338a9f
 822	1317	8092148915211889	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_time/timeout_helper.c.obj	882fc6dfab73579c
 115	591	8092148908120716	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2350/pico_platform/platform.c.obj	16bca7f1a688b34d
@@ -712,6 +746,7 @@
 1619	2079	8092148923327653	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj	ba916cb5b9c0d7e2
 1704	2091	8092148924229127	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_flash/flash.c.obj	84116c0f9e51d5e8
 1658	2143	8092148923747178	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj	d64da7a77765dc7b
+4979	5495	8102643699282019	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/hid/hid_device.c.obj	47737ad38426a845
 4876	5528	8092150760321617	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/tusb.c.obj	6c4fadcd61a79734
 1800	2154	8092148924969561	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_divider/divider.c.obj	d4156e7e836968d1
 1600	2165	8092148922957698	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom.c.obj	a3cce214a09fd86e
@@ -722,10 +757,10 @@
 264	616	8097508003369564	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test.uf2	c722868c1a1cd9f8
 2177	2515	8092148928764529	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_sci_m33.S.obj	386129b1131bebb5
 1892	2538	8092148925882708	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init.c.obj	40bb56f5033ebd2c
-2486	2852	8097506804825246	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj	7331f7f3fa3f3e77
 89	727	8092150712429602	CMakeFiles/Test6.dir/Test6.c.obj	bf2860ef376af404
 2439	2829	8092148931541011	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_conv32_vfp.S.obj	4d6988d12bd70681
 194	831	8097511835334875	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj	f02ca944d1a5b9a
+2486	2852	8097506804825246	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj	7331f7f3fa3f3e77
 104	889	8098161721844375	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_clocks/clocks.c.obj	7653fdf40b6c6904
 2490	2863	8092148931870302	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_common_m33.S.obj	eca9e1d688f85f9e
 4698	5075	8092150758586317	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj	d6b9cc4155e17e58
@@ -747,11 +782,13 @@
 3979	4569	8092148946755879	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/device/usbd_control.c.obj	304d2e86a2a6d2e7
 1490	2930	8098162010592139	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/reset_interface.c.obj	c81952c56fe1c9af
 3653	4585	8092148943504167	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj	68555616ea335c02
+5156	5571	8102643701054510	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/msc/msc_device.c.obj	2046cbe9b1b37f17
 4518	4934	8092148952148997	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/msc/msc_device.c.obj	a116f8a535985af
 4542	4945	8092148952390470	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ncm_device.c.obj	c4b65e18efd672e7
 2316	3706	8097506803210734	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_math.c.obj	3ac39677ea1930b6
 4569	5026	8092148952655945	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/vendor/vendor_device.c.obj	39ea6f659854f328
 4876	5102	8092148955728565	CMakeFiles/Test5.dir/3f6b535ac8f82496e2f55d4c5ea11878/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj	e3f74f240df6bc0
+298	697	8102644145103126	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_3.dis	409c616a5c10da21
 2631	4453	8092150737864264	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_printf/printf.c.obj	8a0777382dc977c9
 4814	5394	8092148955114186	CMakeFiles/Test5.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/common/tusb_fifo.c.obj	7c414ca2519bf805
 5394	5816	8092148965022772	Test5.elf	d37366331edac31b
@@ -767,6 +804,7 @@
 169	599	8092150713260338	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync/sync.c.obj	6ff2b9960ae97f7d
 97	621	8092150712510741	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdlib/stdlib.c.obj	9dfb3bc42747f7a4
 138	657	8092150712946074	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_common/common.c.obj	976ed9039b02cfc
+298	697	8102644145103126	Test_3.hex	409c616a5c10da21
 560	875	8092150717156812	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/irq_handler_chain.S.obj	559a458e436e02fa
 210	939	8097511835565906	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/irq.c.obj	ac1047a4e3978a81
 188	928	8092150713436455	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/irq.c.obj	23be4a0dda67653d
@@ -776,6 +814,7 @@
 658	1143	8092150718136227	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_time/timeout_helper.c.obj	55c6d6d546e861cc
 599	1188	8092150717541740	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/mutex.c.obj	5aa5ab1836c8c001
 879	1445	8092150720347878	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/datetime.c.obj	8a7af3f3f19a6488
+4163	5176	8102643691145045	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_flash/flash.c.obj	dc4af568ebd34a13
 2653	3165	8097506806491048	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_crt0/crt0.S.obj	179abdb2373914b2
 1585	1932	8092150727401674	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_flash/flash.c.obj	c4af963b5caad6f8
 728	1485	8092150718814681	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_timer/timer.c.obj	a2a2ca03db40e517
@@ -784,9 +823,13 @@
 986	1585	8092150721505978	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/queue.c.obj	c6818f2da6bb1ae9
 622	1750	8092150717768461	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_time/time.c.obj	37f0ecd4352847cb
 941	1856	8092150721116063	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/pheap.c.obj	597b9551b71e0906
+135	1311	8102643650837073	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_panic/panic.c.obj	8bfe8519afc968ad
+2105	2504	8102643670541162	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_divider/divider.c.obj	e907e6f9c051507
 1039	1893	8092150721938671	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_clocks/clocks.c.obj	7b435edf26eaf6cf
 1570	1967	8092150727250759	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj	d8df107fb3413caa
+4287	5142	8102643692443199	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj	b33d4e5191c1f9a9
 1703	2091	8092150728947332	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xosc/xosc.c.obj	a63abf98c4310470
+719	1120	8102643656664020	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/critical_section.c.obj	17a56f6184154fca
 1906	2169	8092150730611744	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj	1c37990f0ff6dd9f
 1498	2192	8092150726625650	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom.c.obj	3de84495c0312b0
 2043	2327	8092150731985632	CMakeFiles/Test6.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_aeabi_dcp.S.obj	176876172ff1210c
@@ -842,17 +885,19 @@
 1160	1902	8097506791551858	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_clocks/clocks.c.obj	6ac28243f1de73f0
 127	354	8097985631511463	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/video/video_device.c.obj	aa36cb5730945c98
 1430	1986	8097506795085124	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_watchdog/watchdog.c.obj	da43cf46360e2cb9
+3205	4626	8102643681534198	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_printf/printf.c.obj	8e60e191a5179231
 1656	2077	8097506796593803	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj	7366971bd1d5669a
 1984	2506	8098162015216796	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj	654d34632d3115e4
 1697	2134	8097506796971960	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_flash/flash.c.obj	8d7d7119f402d958
-107	578	8097515547662638	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/mutex.c.obj	e0c089726a8a0ffe
 87	749	8097515695681892	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_clocks/clocks.c.obj	bb352e672e0a5d79
+107	578	8097515547662638	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/mutex.c.obj	e0c089726a8a0ffe
 843	1295	8098162003647108	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj	2f83ebd3910b340e
 1753	2226	8097506797485343	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_divider/divider.c.obj	dfcebda2445832a9
 1911	2253	8097506799206727	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime/runtime.c.obj	53564bcad2311a7b
 1606	2281	8097506796071823	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom.c.obj	dd9da55ab9c7e07e
 144	664	8098161722277169	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_ticks/ticks.c.obj	44d4de06ef62133a
 1992	2336	8097506799940592	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj	22117f417cd2060e
+2795	3193	8102643677459483	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_conv_m33.S.obj	249a3b360c1741e0
 1937	2547	8097506799579433	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init.c.obj	8d3ed2911078ac0c
 2077	2592	8097506800728334	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_divider/divider_compiler.c.obj	da080f4441e7015c
 2408	2652	8097506804030413	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_common_m33.S.obj	a8d7aa5c50eb5af8
@@ -860,7 +905,7 @@
 2547	3083	8097506805430387	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_malloc/malloc.c.obj	565b78b9c30a5123
 2592	3123	8097506805880233	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj	d4c228008b30791e
 2576	3288	8097506805712826	ds18b20/CMakeFiles/ds18b20.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_atomic/atomic.c.obj	c9c8451364396664
-420	1079	8102639354271480	ds18b20/libds18b20.a	f3370564eba09569
+5809	6116	8102643707635903	ds18b20/libds18b20.a	f3370564eba09569
 100	554	8097511834345085	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdlib/stdlib.c.obj	c537edacc1c261c8
 120	573	8097511834601227	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2350/pico_platform/platform.c.obj	25bcd1a28ec977ad
 178	710	8097511835179418	CMakeFiles/Test_1.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync/sync.c.obj	d137b9db76951e29
@@ -914,10 +959,13 @@
 504	881	8097996192204064	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_1.hex	729392658890b765
 504	881	8097996192204064	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_1.bin	729392658890b765
 504	881	8097996192204064	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_1.uf2	729392658890b765
+2439	3204	8102643674117343	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_divider/divider_compiler.c.obj	5cd9eb268d81492d
 136	502	8098161126451865	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2350/pico_platform/platform.c.obj	7dff04cfbc5b613e
+2976	3337	8102643679254774	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_common_m33.S.obj	c5a3753b373f53a8
 114	568	8098161126231861	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdlib/stdlib.c.obj	754ad830a010d6f5
 175	622	8098161126841404	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync/sync.c.obj	a6c200f97a9ad373
 154	776	8098161126634508	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_panic/panic.c.obj	ce8ea146554961e9
+1121	2085	8102643660693526	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/pheap.c.obj	a70bcf84ec45f76b
 515	1014	8098161130273116	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/irq.c.obj	57779022d8a998c
 123	556	8098161242152820	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/critical_section.c.obj	1df8a49694bd8da2
 210	731	8098161243034089	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/datetime.c.obj	ee1b547387ed6d88
@@ -929,11 +977,14 @@
 183	488	8098161997052659	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj	737cd1878be1987
 106	435	8102639351123072	CMakeFiles/Test_2.dir/Test_2.c.obj	a06ead84b4e02566
 172	654	8098161996944678	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj	c61391b10b741169
+1818	2769	8102643667711451	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom.c.obj	35420ad2e65d78fc
 552	937	8098162000744858	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_fma_dcp.S.obj	c8f546b85e50005d
+884	1688	8102643658324187	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_timer/timer.c.obj	a5e38ad546c968dd
 465	1164	8098161999985120	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_divider/divider_compiler.c.obj	5d2ed30539fc4376
 786	1282	8098162003080553	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_common_m33.S.obj	f765a1b8595e5ea0
 938	1638	8098162004638833	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj	14ad4b3d05f1cd22
 903	1849	8098162004256704	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj	181c4d3d9a59edf0
+2964	3476	8102643679119475	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_conv32_vfp.S.obj	4e5fd223e02aebfe
 502	1974	8098162000239838	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_math.c.obj	437e0649d0b22c1
 628	2010	8098162001504253	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_math.c.obj	3d724b7399a780f
 1295	2198	8098162008175399	CMakeFiles/Test_2.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio/stdio.c.obj	969986fb8eaed2de
@@ -946,42 +997,19 @@
 1079	2249	8102639372477800	Test_2.elf	adea0dde0f026a91
 1079	2249	8102639372477800	Test_2.bin	adea0dde0f026a91
 1079	2249	8102639372477800	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_2.dis	adea0dde0f026a91
-23	1939	8102643648609849	build.ninja	cb2673572ce3f54a
-121	545	8102643650726695	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_common/common.c.obj	914373822bf96c4b
-110	563	8102643650596075	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2350/pico_platform/platform.c.obj	4ed0263c56651969
-85	574	8102643650339016	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdlib/stdlib.c.obj	1c9877dac83e060
-178	693	8102643651273369	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj	ba7bd9f838bc75c6
-70	707	8102643650119439	ds18b20/CMakeFiles/ds18b20.dir/src/ds18b20.c.obj	d45e6f7c5d746feb
-77	719	8102643650224408	CMakeFiles/Test_3.dir/Test_3.c.obj	b3f79daf091e10ba
+66	297	8102644138835027	CMakeFiles/Test_3.dir/Test_3.c.obj	b3f79daf091e10ba
 145	732	8102643651031052	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/hardware_claim/claim.c.obj	14dfb214ddfb5115
 166	743	8102643651153497	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync/sync.c.obj	cf502da4a1dfbf76
+1288	2390	8102643662435272	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_clocks/clocks.c.obj	81f606180856e818
 563	884	8102643655108240	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/irq_handler_chain.S.obj	7708dc161dcddec0
 95	1039	8102643650485968	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_gpio/gpio.c.obj	1163c02bfe0cd554
-719	1120	8102643656664020	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/critical_section.c.obj	17a56f6184154fca
-694	1186	8102643656430130	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/lock_core.c.obj	3d46f8b86fcd3be6
-574	1245	8102643655225582	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/sem.c.obj	a127e6e73a5ace11
 749	1277	8102643656983911	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_time/timeout_helper.c.obj	b37bae815ab27835
-135	1311	8102643650837073	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_panic/panic.c.obj	8bfe8519afc968ad
-708	1453	8102643656555567	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/mutex.c.obj	b8181e75c273a54a
-547	1541	8102643654954564	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/irq.c.obj	90a85979a365e4d6
-884	1688	8102643658324187	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_timer/timer.c.obj	a5e38ad546c968dd
 1041	1798	8102643659882279	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/datetime.c.obj	5f819419e745c0b0
 1186	1834	8102643661345975	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/queue.c.obj	23936feae0212d31
-1246	1866	8102643661937669	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_uart/uart.c.obj	d8c894452e53a9b9
 1320	1882	8102643662834454	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_pll/pll.c.obj	ec61f117996cab0b
-733	1988	8102643656812645	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_time/time.c.obj	2c1d4f785fbc5dff
-1121	2085	8102643660693526	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/pheap.c.obj	a70bcf84ec45f76b
-1467	2215	8102643664233035	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_vreg/vreg.c.obj	39dac3d3760140cf
-1695	2249	8102643666541458	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_ticks/ticks.c.obj	90cdcb807b1c0f2
-1835	2312	8102643667955727	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj	4399941862cefeda
-1288	2390	8102643662435272	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_clocks/clocks.c.obj	81f606180856e818
+4504	5866	8102643694625894	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/device/usbd.c.obj	e45f18695448a41b
 1872	2412	8102643668216690	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj	d19ea76a1260ca32
-1564	2436	8102643665124905	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_watchdog/watchdog.c.obj	ed7e4828522362dd
-2105	2504	8102643670541162	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_divider/divider.c.obj	e907e6f9c051507
-1889	2610	8102643668456759	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_flash/flash.c.obj	a87cd27d8f62b295
-1994	2648	8102643669463757	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xosc/xosc.c.obj	9d21e3029e9f827c
 2217	2734	8102643671873512	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime/runtime.c.obj	91f6af9b4e5b6185
-1818	2769	8102643667711451	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom.c.obj	35420ad2e65d78fc
 2425	2865	8102643673741814	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj	21cef8cf94f7d39e
 2316	2963	8102643672647614	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj	b20f14cb6c1e2bb7
 2251	2975	8102643672004138	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init.c.obj	a016c63ef77814cd
@@ -989,64 +1017,127 @@
 2399	3003	8102643673502010	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj	253328430db815ce
 2675	3084	8102643676277932	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_fma_dcp.S.obj	a49ef3ade95ebc07
 2747	3182	8102643677066587	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_sci_m33.S.obj	a8008890c23918e4
-2795	3193	8102643677459483	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_conv_m33.S.obj	249a3b360c1741e0
-2439	3204	8102643674117343	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_divider/divider_compiler.c.obj	5cd9eb268d81492d
 2990	3280	8102643679393401	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj	f9dea4a777b40536
-2976	3337	8102643679254774	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_common_m33.S.obj	c5a3753b373f53a8
-2964	3476	8102643679119475	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_conv32_vfp.S.obj	4e5fd223e02aebfe
-3004	3514	8102643679529343	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_malloc/malloc.c.obj	54f7229dcf7cf749
-3193	3715	8102643681421418	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj	23fed6044a9c6b5d
+5485	6024	8102643704331660	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/vendor/vendor_device.c.obj	a90be6c947b19b6c
 3084	3756	8102643680333168	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_atomic/atomic.c.obj	3e8f9794a27f52f3
-3280	3824	8102643682294583	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_crt0/crt0.S.obj	37334ea512234e39
 3182	3997	8102643681311513	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj	386a25c68512fef1
 2875	4156	8102643678227492	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_math.c.obj	44f8ca22c2e7c13b
 3343	4177	8102643682926234	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_clib_interface/newlib_interface.c.obj	d385e25bc939bbfb
-2551	4208	8102643675093747	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_math.c.obj	fa7b882954c9000f
-3525	4271	8102643684742004	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj	7f6663b9d4761e23
 3495	4495	8102643684437185	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio/stdio.c.obj	109a9e8f9e8d3cf9
-3205	4626	8102643681534198	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_printf/printf.c.obj	8e60e191a5179231
-4021	4670	8102643689787300	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_unique_id/unique_id.c.obj	1b631c5483804a16
-4194	4819	8102643691446442	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj	4e79cf064360da0d
 3824	4843	8102643687730396	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj	730b94e8dc3961a9
+298	697	8102644145103126	Test_3.bin	409c616a5c10da21
 3737	4882	8102643686885614	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/reset_interface.c.obj	ee6cf34a9372361e
-3764	4960	8102643687133977	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj	64560e80d4df4062
-4287	5142	8102643692443199	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj	b33d4e5191c1f9a9
 4670	5154	8102643696190902	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/audio/audio_device.c.obj	52db4ceac60054bd
-4163	5176	8102643691145045	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_flash/flash.c.obj	dc4af568ebd34a13
 4209	5249	8102643691564517	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj	87f4bbf59419b1fa
 4632	5288	8102643695818397	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/device/usbd_control.c.obj	7b2e3804cafda40a
 4862	5484	8102643698096439	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj	c1d4cc650e7ae0a3
-4979	5495	8102643699282019	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/hid/hid_device.c.obj	47737ad38426a845
-4897	5519	8102643698454323	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj	f2bafddeb11e6a39
 5142	5559	8102643700914998	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/midi/midi_device.c.obj	57a8aa7686196bc5
-5156	5571	8102643701054510	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/msc/msc_device.c.obj	2046cbe9b1b37f17
-5177	5803	8102643701253699	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj	8db7fba0128057b7
-5297	5832	8102643702772199	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj	8bdfcf0fcdeb7322
-4829	5837	8102643697793926	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/cdc/cdc_device.c.obj	496eaa6304b4512f
-5250	5844	8102643701991200	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ncm_device.c.obj	48ab47164d6d7504
-5496	5864	8102643704442211	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/video/video_device.c.obj	d59c4ae35eb1327d
-4504	5866	8102643694625894	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/device/usbd.c.obj	e45f18695448a41b
-5572	5889	8102643705199609	CMakeFiles/Test_3.dir/3f6b535ac8f82496e2f55d4c5ea11878/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj	3ce2f8fbe33c3f9f
-5485	6024	8102643704331660	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/vendor/vendor_device.c.obj	a90be6c947b19b6c
-5809	6116	8102643707635903	ds18b20/libds18b20.a	f3370564eba09569
 5522	6162	8102643704722715	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/tusb.c.obj	56782a70a982f32c
 5560	6247	8102643705084130	CMakeFiles/Test_3.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/common/tusb_fifo.c.obj	5215e0032c8839a8
-6248	6642	8102643715792691	Test_3.elf	409c616a5c10da21
-6248	6642	8102643715792691	Test_3.dis	409c616a5c10da21
-6248	6642	8102643715792691	Test_3.hex	409c616a5c10da21
-6248	6642	8102643715792691	Test_3.bin	409c616a5c10da21
-6248	6642	8102643715792691	Test_3.uf2	409c616a5c10da21
-6248	6642	8102643715792691	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_3.dis	409c616a5c10da21
-6248	6642	8102643715792691	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_3.hex	409c616a5c10da21
-6248	6642	8102643715792691	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_3.bin	409c616a5c10da21
-6248	6642	8102643715792691	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_3.uf2	409c616a5c10da21
-66	297	8102644138835027	CMakeFiles/Test_3.dir/Test_3.c.obj	b3f79daf091e10ba
-298	697	8102644145103126	Test_3.elf	409c616a5c10da21
-298	697	8102644145103126	Test_3.dis	409c616a5c10da21
-298	697	8102644145103126	Test_3.hex	409c616a5c10da21
-298	697	8102644145103126	Test_3.bin	409c616a5c10da21
 298	697	8102644145103126	Test_3.uf2	409c616a5c10da21
-298	697	8102644145103126	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_3.dis	409c616a5c10da21
 298	697	8102644145103126	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_3.hex	409c616a5c10da21
-298	697	8102644145103126	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_3.bin	409c616a5c10da21
 298	697	8102644145103126	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_3.uf2	409c616a5c10da21
+76	2415	8103402900333365	build.ninja	cb2673572ce3f54a
+130	537	8103402902534300	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_common/common.c.obj	a63dfe1b64c531b6
+198	636	8103402903198650	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync_spin_lock/sync_spin_lock.c.obj	e57c672c91fb18b0
+185	643	8103402903042755	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_sync/sync.c.obj	ff8c234807169826
+166	656	8103402902931876	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/hardware_claim/claim.c.obj	85d8f5e14b3f9b75
+117	661	8103402902377384	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2350/pico_platform/platform.c.obj	e420eb874729e0c6
+98	668	8103402902182931	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdlib/stdlib.c.obj	5654090e56535939
+89	769	8103402902036189	CMakeFiles/Test_4.dir/Test_4.c.obj	f882cb8db117891d
+144	791	8103402902747484	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_platform_panic/panic.c.obj	61c15747862f7091
+108	874	8103402902266936	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_gpio/gpio.c.obj	7acffe3e9ac038b0
+76	493	8103407942314720	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/irq_handler_chain.S.obj	48e4d5bcc2421cf4
+95	569	8103407942529664	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/lock_core.c.obj	4036ae7dc446f99c
+127	630	8103407942854438	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/critical_section.c.obj	c02c35dbb63fdd87
+84	673	8103407942409967	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/sem.c.obj	8ce96010e25b9a53
+154	701	8103407943109791	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_time/timeout_helper.c.obj	caf7b7359b18c03
+110	753	8103407942730076	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_sync/mutex.c.obj	5c81de97ca673bec
+67	758	8103407942249801	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_irq/irq.c.obj	6d158f01d558cd2
+204	902	8103407943999610	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_timer/timer.c.obj	c3c68b92a1d9794
+142	1119	8103407942989598	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_time/time.c.obj	f9f3d9963e2562b7
+77	582	8103408167353085	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/datetime.c.obj	209c040a34296f86
+143	620	8103408168018015	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_vreg/vreg.c.obj	3785f6a31882d302
+131	632	8103408167919268	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_pll/pll.c.obj	8aebb49e8e2be89e
+167	648	8103408168275141	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_ticks/ticks.c.obj	ca6345dbccb96bc2
+109	657	8103408167678215	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_uart/uart.c.obj	c0e40aa1f4beb083
+97	689	8103408167567643	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/queue.c.obj	1ebb2d16030f37f1
+88	760	8103408167473125	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/common/pico_util/pheap.c.obj	1a65fb95d024e79a
+155	831	8103408168152290	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_watchdog/watchdog.c.obj	66373e5ea699e4b3
+122	900	8103408167805188	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_clocks/clocks.c.obj	8aabdc71185ceaa6
+86	411	8103408756797373	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom_lock.c.obj	7fd2923e7b65d8e2
+95	427	8103408756894115	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_boot_lock/boot_lock.c.obj	32657d9ce409c776
+154	472	8103408757531103	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime/runtime.c.obj	7ae35ecbde628d75
+106	497	8103408757030262	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_flash/flash.c.obj	8431b3463e50dd4d
+136	517	8103408757365623	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_divider/divider.c.obj	938a1cd1ca8bd9b0
+117	526	8103408757196637	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xosc/xosc.c.obj	551aea14eae6a020
+187	580	8103408757932785	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init_clocks.c.obj	d506a7aa6ec5356
+77	624	8103408756693261	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bootrom/bootrom.c.obj	a35f8134a733d105
+171	685	8103408757675437	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init.c.obj	8cfebcf920c80b16
+125	451	8103409176432210	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_runtime_init/runtime_init_stack_guard.c.obj	9205202c628aaa96
+135	509	8103409176575490	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_bit_ops/bit_ops_aeabi.S.obj	19e99f706c97f17d
+186	555	8103409177145417	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_aeabi_dcp.S.obj	68f14c37d365ee98
+204	558	8103409177379403	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_fma_dcp.S.obj	6a01d722bb79dfb
+250	583	8103409177786313	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_conv_m33.S.obj	d1435f93a79e9ffe
+228	606	8103409177597697	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_sci_m33.S.obj	2179d86f1e72695c
+144	623	8103409176759768	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_divider/divider_compiler.c.obj	2e640418dd72f960
+270	1046	8103409177986173	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_math.c.obj	5ba8969168f727d6
+163	1138	8103409176937646	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_double/double_math.c.obj	8b55af2d15370704
+85	341	8103409977432571	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_common_m33.S.obj	c4b512158ad1e67a
+78	369	8103409977353907	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_conv32_vfp.S.obj	836b88987da74834
+96	417	8103409977558333	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_float/float_sci_m33_vfp.S.obj	4d061675c2926a7c
+69	526	8103409977231154	ds18b20/CMakeFiles/ds18b20.dir/src/ds18b20.c.obj	d45e6f7c5d746feb
+104	544	8103409977651143	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_malloc/malloc.c.obj	a81c3c24d5211e3b
+183	584	8103409978792176	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_crt0/crt0.S.obj	6e6a420a5c471b86
+149	694	8103409978132240	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_standard_binary_info/standard_binary_info.c.obj	13bf938258c88583
+115	797	8103409977793761	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_atomic/atomic.c.obj	4558c34b46864063
+131	1249	8103409977953464	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_cxx_options/new_delete.cpp.obj	9b8c86cd0b33220b
+357	1289	8103409980184476	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_clib_interface/newlib_interface.c.obj	23e80284148f8972
+428	1352	8103409980951421	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_uart/stdio_uart.c.obj	2424c40a0f6c9d26
+395	1420	8103409980648836	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio/stdio.c.obj	b9473851b9be70b8
+701	1546	8103409983748744	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_unique_id/unique_id.c.obj	36ab5238cc740a7d
+167	1636	8103409978329465	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_printf/printf.c.obj	40cc0d5523350707
+805	1786	8103409984671748	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_flash/flash.c.obj	a933a2cdd6f8655b
+595	1817	8103409982552761	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/stdio_usb_descriptors.c.obj	ae2b47e5a1752134
+1264	1867	8103409989380316	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/hardware_xip_cache/xip_cache.c.obj	611f2216112220e7
+530	1886	8103409981930592	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/reset_interface.c.obj	9095341edde7d25c
+548	2036	8103409982089839	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/src/rp2_common/pico_stdio_usb/stdio_usb.c.obj	5cf9b42031db6b2b
+1654	2199	8103409993227908	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/audio/audio_device.c.obj	7e18d33da257cb7
+1370	2226	8103409990312068	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/portable/raspberrypi/rp2040/rp2040_usb.c.obj	7fd8df1c8f046414
+1552	2241	8103409992137286	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/device/usbd_control.c.obj	d9d06e0cce0ef477
+1867	2301	8103409995271273	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/dfu/dfu_rt_device.c.obj	1fc33cd5cdb7540b
+1826	2348	8103409994947580	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/dfu/dfu_device.c.obj	fff87dd8b274911b
+1298	2521	8103409989611098	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/portable/raspberrypi/rp2040/dcd_rp2040.c.obj	818303cab03b15bf
+1886	2559	8103409995468787	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/hid/hid_device.c.obj	90df1b8f0e026355
+2040	2609	8103409997431056	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/midi/midi_device.c.obj	109a7197e444227f
+2211	2621	8103409998752549	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/msc/msc_device.c.obj	78b0085a9f3ed5cd
+1789	2669	8103409994667476	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/cdc/cdc_device.c.obj	ac90db89807b9cca
+2230	2700	8103409998911643	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ecm_rndis_device.c.obj	df5ff05a18478bc5
+1431	2704	8103409990916024	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/device/usbd.c.obj	45b472a2ee5c147e
+2306	2748	8103409999931554	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/usbtmc/usbtmc_device.c.obj	5ef7b425f4831539
+2249	2813	8103409999083275	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/net/ncm_device.c.obj	ab95a0caa8d03fdc
+2546	2853	8103410002070589	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/video/video_device.c.obj	9048e4248a372e4c
+2622	2936	8103410002830649	CMakeFiles/Test_4.dir/3f6b535ac8f82496e2f55d4c5ea11878/pico_fix/rp2040_usb_device_enumeration/rp2040_usb_device_enumeration.c.obj	984ba0e45589091f
+2438	3006	8103410001698786	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/class/vendor/vendor_device.c.obj	9ff68f8b9d0f2510
+2559	3157	8103410002198394	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/tusb.c.obj	1cab46b09285f21f
+2609	3276	8103410002694489	CMakeFiles/Test_4.dir/C_/Users/nahue/.pico-sdk/sdk/2.2.0/lib/tinyusb/src/common/tusb_fifo.c.obj	feb19061a05c89bd
+2670	3651	8103410003301005	ds18b20/libds18b20.a	f3370564eba09569
+3651	4697	8103410023493345	Test_4.elf	b2b637d20b9e5213
+3651	4697	8103410023493345	Test_4.dis	b2b637d20b9e5213
+3651	4697	8103410023493345	Test_4.hex	b2b637d20b9e5213
+3651	4697	8103410023493345	Test_4.bin	b2b637d20b9e5213
+3651	4697	8103410023493345	Test_4.uf2	b2b637d20b9e5213
+3651	4697	8103410023493345	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_4.dis	b2b637d20b9e5213
+3651	4697	8103410023493345	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_4.hex	b2b637d20b9e5213
+3651	4697	8103410023493345	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_4.bin	b2b637d20b9e5213
+3651	4697	8103410023493345	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_4.uf2	b2b637d20b9e5213
+61	324	8103411627498586	CMakeFiles/Test_4.dir/Test_4.c.obj	f882cb8db117891d
+325	720	8103411633945729	Test_4.elf	b2b637d20b9e5213
+325	720	8103411633945729	Test_4.dis	b2b637d20b9e5213
+325	720	8103411633945729	Test_4.hex	b2b637d20b9e5213
+325	720	8103411633945729	Test_4.bin	b2b637d20b9e5213
+325	720	8103411633945729	Test_4.uf2	b2b637d20b9e5213
+325	720	8103411633945729	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_4.dis	b2b637d20b9e5213
+325	720	8103411633945729	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_4.hex	b2b637d20b9e5213
+325	720	8103411633945729	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_4.bin	b2b637d20b9e5213
+325	720	8103411633945729	C:/Users/nahue/Desktop/Accesos Directos/GitHUB/Practicas_Rasberry/Raspberry_Libreria/Test_DS18B20/main/build/Test_4.uf2	b2b637d20b9e5213

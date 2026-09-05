@@ -28,7 +28,7 @@ set(PICO_BOARD pico2 CACHE STRING "Board type")
 # Pull in Raspberry Pi Pico SDK (must be before project)
 include(pico_sdk_import.cmake)
 
-project(Test_3 C CXX ASM)
+project(Test_4 C CXX ASM)
 
 # Initialise the Raspberry Pi Pico SDK
 pico_sdk_init()
@@ -41,27 +41,27 @@ add_subdirectory(../ds18b20 ${CMAKE_CURRENT_BINARY_DIR}/ds18b20)
 
 # Add executable. Default name is the project name, version 0.1
 
-add_executable(Test_3 Test_3.c )
+add_executable(Test_4 Test_4.c )
 
-pico_set_program_name(Test_3 "Test_3")
-pico_set_program_version(Test_3 "0.1")
+pico_set_program_name(Test_4 "Test_4")
+pico_set_program_version(Test_4 "0.1")
 
 # Modify the below lines to enable/disable output over UART/USB
-pico_enable_stdio_uart(Test_3 1)
-pico_enable_stdio_usb(Test_3 1)
+pico_enable_stdio_uart(Test_4 1)
+pico_enable_stdio_usb(Test_4 1)
 
 # Add the standard library to the build
-target_link_libraries(Test_3
+target_link_libraries(Test_4
         pico_stdlib
         one_wire
         ds18b20)
 
 # Add the standard include files to the build
-target_include_directories(Test_3 PRIVATE
+target_include_directories(Test_4 PRIVATE
         ${CMAKE_CURRENT_LIST_DIR}
         ${CMAKE_CURRENT_LIST_DIR}/one_wire/include
         ${CMAKE_CURRENT_LIST_DIR}/ds18b20/include
 )
 
-pico_add_extra_outputs(Test_3)
+pico_add_extra_outputs(Test_4)
 

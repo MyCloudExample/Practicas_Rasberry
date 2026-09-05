@@ -233,6 +233,53 @@ bool DS18B20_Save_Config(OneWireBus_t* bus, uint8_t* rom_code)
 
     return true;
 }
+
+bool DS18B20_Set_Config(OneWireBus_t* bus, uint8_t th, uint8_t tl, uint8_t resolution, uint8_t* rom_code)
+{
+    // 1. Validar parámetros
+    if (bus == NULL) 
+    {
+        return false;
+    }
+
+    // 2. Validar rangos de los valores
+    int8_t th_signed = (int8_t)th;
+    int8_t tl_signed = (int8_t)tl;
+    if (th_signed < -55 || th_signed > 125 || tl_signed < -55 || tl_signed > 125) 
+    {
+        return false;  // Valores fuera de rango
+    }
+
+    // 3. Validar la resolución
+    if (resolution != DS18B20_REG_CONFIGURATION_9 &&
+        resolution != DS18B20_REG_CONFIGURATION_10 &&
+        resolution != DS18B20_REG_CONFIGURATION_11 &&
+        resolution != DS18B20_REG_CONFIGURATION_12) 
+    {
+        return false;  // Resolución inválida
+    }
+
+    // 4. Escribir la nueva configuración en el scratchpad
+    if (!DS18B20_Write_Scrathpad(bus, rom_code, th, tl, resolution)) 
+    {
+        return false;
+    }
+
+    // 5. (Opcional) Verificar que la escritura fue exitosa
+    uint8_t scratchpad[9];
+    if (!DS18B20_Read_Memory_Scratchpad(bus, scratchpad, rom_code)) 
+    {
+        return false;
+    }
+
+    // Comparar los valores escritos con los leídos
+    if (scratchpad[2] != th || scratchpad[3] != tl || scratchpad[4] != resolution) 
+    {
+        return false;  // La escritura no fue exitosa
+    }
+
+    return true;
+}
 //=====================================================================================================================================================================================================
 // 3- Implementacion de las funciones del dispositivo
 //=====================================================================================================================================================================================================

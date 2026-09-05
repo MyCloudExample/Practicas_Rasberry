@@ -81,6 +81,17 @@ bool DS18B20_Read_Memory_Scratchpad(OneWireBus_t* bus, uint8_t* read_memory, uin
  * @return                                  true si fue exitosa, false en caso contrario.
  */
 bool DS18B20_Save_Config(OneWireBus_t* bus, uint8_t* rom_code);
+
+/**
+ * @brief                                   Cambia la configuración del sensor en tiempo de ejecución.
+ * @param bus                               Puntero a la configuración del bus 1-Wire.
+ * @param th                                Nuevo límite superior de alarma (en °C).
+ * @param tl                                Nuevo límite inferior de alarma (en °C).
+ * @param resolution                        Nueva resolución (usar macros DS18B20_REG_CONFIGURATION_XX).
+ * @param rom_code                          Puntero al código ROM del dispositivo (NULL si solo hay uno).
+ * @return                                  true si fue exitosa, false en caso contrario.
+ */
+bool DS18B20_Set_Config(OneWireBus_t* bus, uint8_t th, uint8_t tl, uint8_t resolution, uint8_t* rom_code);
 //=====================================================================================================================================================================================================
 // 4-
 //=====================================================================================================================================================================================================
